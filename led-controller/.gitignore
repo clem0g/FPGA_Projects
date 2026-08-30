@@ -1,0 +1,11 @@
+.sconsign.dblite
+hardware.bin
+leds_tb.vcd
+
+# Build artifacts
+hardware.asc
+hardware.json
+hardware.out
+
+# Simulation artifacts
+leds_tb.out
