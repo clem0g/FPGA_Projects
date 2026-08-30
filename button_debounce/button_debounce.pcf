@@ -1,0 +1,13 @@
+#LEDs
+set_io      led[0]      99
+set_io      led[1]      98
+set_io      led[2]      97
+set_io      led[3]      96
+
+#Buttons
+set_io -pullup yes     pmod_1      78
+set_io -pullup yes     pmod_2      79
+set_io -pullup yes     pmod_3      80
+
+#Clock
+set_io     clk     21
